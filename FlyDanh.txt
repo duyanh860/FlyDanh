@@ -92,7 +92,7 @@ mine.BackgroundColor3 = Color3.fromRGB(123, 255, 247)
 mine.Position = UDim2.new(0.231578946, 0, 0.491228074, 0)
 mine.Size = UDim2.new(0, 45, 0, 29)
 mine.Font = Enum.Font.SourceSans
-mine.Text = "-"
+mine.Text = "giảm"
 mine.TextColor3 = Color3.fromRGB(0, 0, 0)
 mine.TextScaled = true
 mine.TextSize = 14.000
@@ -112,7 +112,7 @@ mini.Parent = main.Frame
 mini.BackgroundColor3 = Color3.fromRGB(192, 150, 230)
 mini.Font = "SourceSans"
 mini.Size = UDim2.new(0, 45, 0, 28)
-mini.Text = "-"
+mini.Text = "ẩn"
 mini.TextSize = 40
 mini.Position = UDim2.new(0, 44, -1, 27)
 
